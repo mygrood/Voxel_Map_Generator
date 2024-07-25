@@ -6,23 +6,8 @@ GrassCorner;
 GrassInnerCorner;
 GrassSide;
 
-Описание:
-Однажды это станет полноценной игрой.
-Выбери размер карты и вес тайлов(он влияет на количество тайлов на карте).
-
 Z - генерирует карту заново с теми же настройками
 Управление камерой:
 WSAD или правая клавиша мыши для перемещения.
 Колёсико мыши для зума.
 Q и E для поворота.
-
-Someday, this will become a game. 
-
-Choose the map size and tile weight (which affects the number of tiles on the map).
-Press Z to regenerate the map with the same settings.
-Camera controls:
-Use WSAD or the right mouse button to move.
-Scroll the mouse wheel to zoom.
-Press Q and E to rotate.
-
-Made by mygrood
